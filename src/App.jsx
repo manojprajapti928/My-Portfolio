@@ -17,8 +17,7 @@ function App() {
      <Navbar />
      <div className="container">
        <Home />
-       <Skills/>npm update
-
+       <Skills/>
        <Project/>
        <Contact/>
       
