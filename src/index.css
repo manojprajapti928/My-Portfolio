@@ -1,0 +1,89 @@
+:root{
+  --box-shadow:5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+  --bg-color:rgb(111, 114, 134);
+}
+
+
+
+body {
+    background-color: rgb(88, 111, 150);
+    color: white;
+
+  }
+  a{
+    text-decoration: none;
+    color: white  ;
+  }
+  
+  
+
+
+
+
+
+ 
+
+
+/* Media */
+/* For screens smaller than 768px (typical tablets) */
+@media (max-width: 768px) {
+  /* Navbar */
+  .nav_bar {
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav_bar .nav_items {
+    padding: 10px;
+  }
+
+  /* Home Section */
+  .home {
+    flex-direction: column-reverse;
+    height: auto;
+    padding: 20px;
+  }
+  .home .left {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .home .right .img img {
+    height: 200px;
+    width: 200px;
+  }
+
+  /* Experience Section */
+  .ex {
+    width: 100%;
+  }
+
+  .ex-items {
+    width: 100%;
+  }
+
+  /* Skills Section */
+  .skills {
+    width: 100%;
+  }
+  .skills .items .item {
+    width: calc(50%);
+  }
+
+  /* Contact Section */
+  .contact-icon {
+    height: auto;
+    flex-direction: column;
+  }
+  .contact-icon .items {
+    margin: 5px;
+  }
+}
+
+/* For screens smaller than 480px (typical smartphones) */
+@media (max-width: 480px) {
+  /* Home Section */
+  .home .right .img img {
+    height: 150px;
+    width: 150px;
+  }
+}
+

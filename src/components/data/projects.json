@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Learning Management System",
+    "description": "LMS typically stands for Learning Management System, a software application for managing and delivering educational courses or training programs online." ,
+    "imageSrc": "LMS",
+    "projectLink": "https://lmc-seven.vercel.app/",
+    "repoLink": "https://github.com/username/ecommerce",
+    "technologies": ["React"]
+    
+  },
+  {
+    "id": 2,
+    "title": "The Coffee Shop",
+    "description": "The Coffee Shop could refer to a cozy, inviting place to enjoy a variety of coffee blends and treats in a relaxed atmosphere.",
+    "imageSrc": "The Coffee Shop",
+    "projectLink": "https://coffee-ecru-gamma.vercel.app/",
+    "repoLink": "https://github.com/username/portfolio",
+    "technologies": ["React"]
+  
+  },
+  {
+    "id": 3,
+    "title": "Mobile Shop",
+    "description": "A Mobile Shop can refer to a retail store that specializes in selling mobile phones, accessories, and related services.",
+    "imageSrc": "mobile Shop",
+    "projectLink": "https://example.com/mobile_app",
+    "repoLink": "https://github.com/username/mobile_app",
+    "technologies": ["React","FireBase"]
+    
+  }
+]
