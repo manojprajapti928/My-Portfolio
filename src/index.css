@@ -65,7 +65,7 @@ body {
     width: 100%;
   }
   .skills .items .item {
-    width: calc(50%);
+    /* width: calc(40%); */
   }
 
   /* Contact Section */
