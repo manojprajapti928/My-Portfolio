@@ -3,6 +3,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    z-index: 1;
+    top: 0px;
+    background-color: rgb(88, 111, 150);
 
   }
   .nav_bar .nav_items{

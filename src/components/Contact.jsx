@@ -13,11 +13,11 @@ function Contact() {
         <h1>CONTACT ME</h1>
         <div  className="contact-icon"
         data-aos="zoom-in-up">
-          <a href='https://www.instagram.com/yourusername'  className="items">
+          <a href=''  className="items">
             <FaInstagram className='icons
             '/> 
           </a>
-          <a href='https://www.facebook.com/yourusername' className="items">
+          <a href='' className="items">
             <FaFacebook className='icons
             ' />
           </a>
